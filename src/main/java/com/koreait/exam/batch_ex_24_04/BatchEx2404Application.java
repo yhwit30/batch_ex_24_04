@@ -10,5 +10,4 @@ public class BatchEx2404Application {
     public static void main(String[] args) {
         SpringApplication.run(BatchEx2404Application.class, args);
     }
-
 }
