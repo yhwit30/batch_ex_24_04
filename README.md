@@ -44,9 +44,13 @@ Jop : 빨래
 ## 메모
 - 스프링부트가 제공하는 프레임워크(feat.JPA)로 아래와 같이 레포지터리가 간단해진다. 쿼리를 따로 작성하지 않아도 된다.
 
+<div>* 기본제공되는 레포지터리</div>
+<br>
+
 ![image](https://github.com/yhwit30/batch_ex_24_04/assets/153142837/bb223921-6ee9-459a-a062-663b8ef3fc2b)
 
-&
+<div>* 커스텀한 레포지터리</div>
+<br>
 
 ![image](https://github.com/yhwit30/batch_ex_24_04/assets/153142837/be110a84-bfef-4d84-b555-6e63d90d248a)
 
