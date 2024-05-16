@@ -1,6 +1,7 @@
 ## 개발환경
 java 17 <br>
-Spring Batch
+Spring Batch <br>
+intelliJ
 
 <br>
 
